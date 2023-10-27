@@ -28,4 +28,6 @@ public class UsuarioModel implements Serializable {
     private String cep;
 
     private String tipo_usuario;
+
+    private String url_img;
 }
